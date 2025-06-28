@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Arun P](mailto:arun.p@owasp.org)
+* [Ganesh C](mailto:arun.p@owasp.org)
