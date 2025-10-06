@@ -1,0 +1,21 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Arun P
+    email: arun.p@owasp.org
+  - name: Ganesh C
+    email: arun.p@owasp.org
+level: 2
+name: OWASP MQTT Guide
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-mqtt-guide
+    url: https://github.com/OWASP/www-project-mqtt-guide
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-mqtt-guide
